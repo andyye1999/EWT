@@ -1,0 +1,2 @@
+VMD：https://ww2.mathworks.cn/matlabcentral/fileexchange/44765-variational-mode-decomposition?s_tid=srchtitle_ewt_1
+EWT：https://ww2.mathworks.cn/help/wavelet/ug/empirical-wavelet-transform.html
